@@ -70,6 +70,10 @@ section {
 }
 
 .heading-primary-sub {
+    margin-bottom: 50px;
+}
+
+.heading-primary-second {
     margin-bottom: 30px;
 }
 input[type=text]{
