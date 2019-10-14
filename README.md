@@ -10,7 +10,7 @@
 
 ![All Countries](Screenshot/Task-1.2.png)
 
-### Task 1.2 If you clicked `Single Country` you will get below picture result
+### Task 1.3 If you clicked `Single Country` you have to give a value in the input form and you will get below picture result
 
 ![Single Country](Screenshot/Task-1.3.png)
 
