@@ -7,6 +7,7 @@
 2. Then you have to copy paste below command in your terminal.
     ```
     npm install
+    npm install -g live-server
     ```
 3. To start the project you have to copy paste below command in your terminal.
 
